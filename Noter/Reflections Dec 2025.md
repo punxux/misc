@@ -3,6 +3,7 @@ ____
 # Mandag 01.11.25
 
 <div><center>.:R353T:.</center></div>
+
 - [x] Create Mozilla Account
 - [x] Privat Github account
 
