@@ -17,6 +17,13 @@ Der er nogle ting nu og her. Der er alt det med Sam. Det er et underligt sted. D
 
 Så er der det dybere arbejde. Jeg tror rent faktisk at der er inspiration at hente i C.G. Jung. 
 
+_1230_
+Jeg skal sku passe lidt på med at spise alt for meget til frokost. Bliver lidt tung her bagefter. Tunge øjenlåg og faktisk også lidt ondt i hovedet. Breathe!
+
+_1345_
+Så hvad er det der skal ske nu? Kan mærke at der falder lidt ro på mig. Måske en kop grøn te ville være godt. 
+
+
 ## Work
 Jeg kan mærke at jeg hænger lidt i bremsen efter det her kaffe lort. Måske er det godt nok at jeg kan få lov til bare lige at være. 
 

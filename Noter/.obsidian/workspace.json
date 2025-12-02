@@ -35,8 +35,7 @@
               "title": "Uge-49-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 302.5
   },
   "right": {
     "id": "efc6770abe4b0895",
@@ -198,12 +197,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "fb07d26a67f297d9",
+  "active": "52cec5f75c60686c",
   "lastOpenFiles": [
-    "7 Hermetic Principles.md",
     "Uge-49-2025.md",
-    "Rutine.md",
     "Reflections Dec 2025.md",
+    "7 Hermetic Principles.md",
+    "Rutine.md",
     "Timeseddel Nov. 2025.md",
     "2025-11-30.md"
   ]
