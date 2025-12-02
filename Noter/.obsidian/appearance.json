@@ -1,3 +1,6 @@
 {
-  "cssTheme": "PLN"
+  "cssTheme": "Nordic",
+  "enabledCssSnippets": [
+    "custom-colors"
+  ]
 }

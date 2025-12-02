@@ -1,0 +1,15 @@
+/* Make ALL markdown headings use Halcyon’s yellow accent */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6,
+.markdown-source-view h1,
+.markdown-source-view h2,
+.markdown-source-view h3,
+.markdown-source-view h4,
+.markdown-source-view h5,
+.markdown-source-view h6 {
+    color: var(--color-yellow) !important;
+}
