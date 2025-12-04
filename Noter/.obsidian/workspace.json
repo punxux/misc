@@ -10,13 +10,15 @@
           {
             "id": "52cec5f75c60686c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflections Dec 2025.md",
+                "file": "work/Reflections Dec 2025.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Reflections Dec 2025"
             }
@@ -24,13 +26,15 @@
           {
             "id": "fb07d26a67f297d9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uge-49-2025.md",
+                "file": "work/Uge-49-2025.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Uge-49-2025"
             }
@@ -92,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 290.5
   },
   "right": {
     "id": "efc6770abe4b0895",
@@ -199,11 +203,17 @@
   },
   "active": "52cec5f75c60686c",
   "lastOpenFiles": [
-    "Uge-49-2025.md",
-    "Reflections Dec 2025.md",
-    "7 Hermetic Principles.md",
-    "Rutine.md",
-    "Timeseddel Nov. 2025.md",
+    "work/Uge-49-2025.md",
+    "work/Reflections Dec 2025.md",
+    "work/Timeseddel Nov 2025.md",
+    "private/Jung/Individuation.md",
+    "private/Jung/Essential Aspects of Jungian Psychology (Short List).md",
+    "private/Jung/Jung-Inspired Self-Work.md",
+    "private/Jung",
+    "private",
+    "work",
+    "private/7 Hermetic Principles.md",
+    "private/Rutine.md",
     "2025-11-30.md"
   ]
 }
